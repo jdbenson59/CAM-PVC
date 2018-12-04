@@ -1,0 +1,14 @@
+{
+   "name": "PVC-UBUNTU-VM",
+   "description": "Description for PVC-UBUNTU-VM.",
+   "type": "userCreated",
+   "manifest": {
+     "template_type": "Terraform",
+     "template_format": "HCL",
+     "template_provider": "Other"
+   },
+   "metadata": {
+     "displayName": "PVC-UBUNTU-VM",
+     "bullets": []
+   }
+ }
